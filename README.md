@@ -8,3 +8,5 @@
 2884. Modify Columns :- https://leetcode.com/problems/modify-columns/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2885. Rename Columns :- https://leetcode.com/problems/rename-columns/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2886. Change Data Type :- https://leetcode.com/problems/change-data-type/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
+2887. Fill Missing Data :- https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
+2888. Reshape Data: Concatenate :- https://leetcode.com/problems/reshape-data-concatenate/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
