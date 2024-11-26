@@ -4,3 +4,4 @@
 2880. Select Data :- https://leetcode.com/problems/select-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2881. Create a New Column :- https://leetcode.com/problems/create-a-new-column/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2882. Drop Duplicate Rows :- https://leetcode.com/problems/drop-duplicate-rows/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
+2883. Drop Missing Data :- https://leetcode.com/problems/drop-missing-data/submissions/1463606156/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
