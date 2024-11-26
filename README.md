@@ -6,3 +6,4 @@
 2882. Drop Duplicate Rows :- https://leetcode.com/problems/drop-duplicate-rows/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2883. Drop Missing Data :- https://leetcode.com/problems/drop-missing-data/submissions/1463606156/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2884. Modify Columns :- https://leetcode.com/problems/modify-columns/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
+2885. Rename Columns :- https://leetcode.com/problems/rename-columns/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
