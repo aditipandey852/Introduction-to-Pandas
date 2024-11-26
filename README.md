@@ -12,3 +12,4 @@
 2888. Reshape Data: Concatenate :- https://leetcode.com/problems/reshape-data-concatenate/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2889. Reshape Data: Pivot :- https://leetcode.com/problems/reshape-data-pivot/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
 2890. Reshape Data: Melt :- https://leetcode.com/problems/reshape-data-melt/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
+2891. Method Chaining :- https://leetcode.com/problems/method-chaining/submissions/1463619804/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata
